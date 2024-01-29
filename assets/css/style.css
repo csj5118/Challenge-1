@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-.header a {
+.header  {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -38,6 +38,12 @@ ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
 
 p {
     font-size: 16px;
